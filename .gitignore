@@ -8,3 +8,4 @@ composer.phar
 .vagrant
 /config/mail.php
 /config/app.php
+/production
