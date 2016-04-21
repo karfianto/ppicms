@@ -30,7 +30,6 @@ http://ppia.ictlab.org
 
 # Contact
 
-Untuk saran dan pertanyaan, dapat disampaikan ke <karfi@ictlab.org>
 
 ![alt text][logo]
 [logo]: http://ppiauow.com/wp-content/uploads/2016/02/logoheader-7.jpg "PPIA UOW"
