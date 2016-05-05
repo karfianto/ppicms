@@ -10,16 +10,13 @@ Aplikasi ini akan dikembangkan untuk mengelola keanggotaan dan kegiatan Persatua
 
 http://ppia.ictlab.org
 
-# Planned Features v0.1
+# Features v0.2
 
 + Home (Page)
-+ Announcement (Category)
-+ About/Profile (Page)
-+ Activities (Category/Gallery)
-+ Forum (Discussion Board)
-+ Events (Category)
++ News (Blog Index)
++ Discussion (Discussion Board)
 + Partners (Page)
-+ Registration (Wizard)
++ Login 
 
 # Technical Specification
 
@@ -30,6 +27,7 @@ http://ppia.ictlab.org
 
 # Contact
 
+Saran dan pertanyaan kirimkan ke <karfi@ictlab.org>
 
 ![alt text][logo]
 [logo]: http://ppiauow.com/wp-content/uploads/2016/02/logoheader-7.jpg "PPIA UOW"
