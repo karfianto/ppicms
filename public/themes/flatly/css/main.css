@@ -1072,6 +1072,11 @@ a {
   color: #18bc9c;
   text-decoration: none;
 }
+
+footer a, a:hover, a:focus  {
+	color: #fff;
+}
+
 a:hover,
 a:focus {
   color: #18bc9c;
