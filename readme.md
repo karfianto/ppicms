@@ -25,6 +25,10 @@ http://ppia.ictlab.org
 + MySQL
 + Bootstrap 4
 
+# Documentation
+
+Coming soon :)
+
 # Contact
 
 Saran dan pertanyaan kirimkan ke <karfi@ictlab.org>
