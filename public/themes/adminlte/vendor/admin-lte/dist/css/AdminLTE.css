@@ -13,7 +13,6 @@
 html,
 body {
   min-height: 100%;
-  padding-bottom:0!important;
 }
 .layout-boxed html,
 .layout-boxed body {

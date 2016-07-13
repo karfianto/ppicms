@@ -31,7 +31,7 @@ class SidebarExtender implements \Maatwebsite\Sidebar\SidebarExtender
     {
         $menu->group(trans('core::sidebar.content'), function (Group $group) {
             $group->item(trans('stuff::abcs.title.abcs'), function (Item $item) {
-                $item->icon('fa fa-copy');
+                $item->icon('fa fa-television');
                 $item->weight(10);
                 $item->authorize(
                      /* append */
@@ -47,7 +47,7 @@ class SidebarExtender implements \Maatwebsite\Sidebar\SidebarExtender
                 });
                 $item->item(trans('stuff::categories.title.categories'), function (Item $item) {
                     $item->icon('fa fa-copy');
-                    $item->weight(0);
+                    $item->weight(1);
                     $item->append('admin.stuff.category.create');
                     $item->route('admin.stuff.category.index');
                     $item->authorize(

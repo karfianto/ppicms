@@ -28,6 +28,7 @@
                     <table class="data-table table table-bordered table-hover">
                         <thead>
                         <tr>
+                            <th>ID</th>
                             <th>{{ trans('core::core.table.created at') }}</th>
                             <th data-sortable="false">{{ trans('core::core.table.actions') }}</th>
                         </tr>
@@ -36,6 +37,11 @@
                         <?php if (isset($stuffs)): ?>
                         <?php foreach ($stuffs as $stuff): ?>
                         <tr>
+                            <td>
+                                <a href="{{ route('admin.stuff.stuff.edit', [$stuff->id]) }}">
+                                    {{ $stuff->id }}
+                                </a>
+                            </td>
                             <td>
                                 <a href="{{ route('admin.stuff.stuff.edit', [$stuff->id]) }}">
                                     {{ $stuff->created_at }}

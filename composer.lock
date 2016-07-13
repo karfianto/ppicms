@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "6c6be071dc06176dd8d2288e81ec6813",
-    "content-hash": "e7be35e50d266b691203812cb4eb468a",
+    "hash": "060fa10748019386df1ec6fbd1341b53",
+    "content-hash": "399b54a8893c8575e6e1ff6234b4449a",
     "packages": [
         {
             "name": "asgardcms/adminlte-theme",
@@ -3175,6 +3175,54 @@
             ],
             "description": "A lightweight implementation of CommonJS Promises/A for PHP",
             "time": "2016-02-26 19:09:02"
+        },
+        {
+            "name": "smalldogs/html5inputs",
+            "version": "2.x-dev",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/smalldogs/html5inputs.git",
+                "reference": "3abcf5b84ae7f19feda5c9892b9669359c316d16"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/smalldogs/html5inputs/zipball/3abcf5b84ae7f19feda5c9892b9669359c316d16",
+                "reference": "3abcf5b84ae7f19feda5c9892b9669359c316d16",
+                "shasum": ""
+            },
+            "require": {
+                "illuminate/support": "~5.0",
+                "php": ">=5.4.0"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-0": {
+                    "Smalldogs\\Html5inputs": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "BSD-2-Clause"
+            ],
+            "authors": [
+                {
+                    "name": "Dustin Brownell",
+                    "email": "dustin@smalldo.gs",
+                    "homepage": "https://www.smalldo.gs"
+                }
+            ],
+            "description": "Adds support for all 11 remaining HTML5 elements (Laravel already supports 2 out of the box) using Laravels 4.2 Form interface (e.g. Form::date())",
+            "homepage": "https://blog.smalldo.gs/2014/04/laravel-4-html5-input-elements/",
+            "keywords": [
+                "HTML5",
+                "extend",
+                "form",
+                "form builder",
+                "helper",
+                "input",
+                "laravel"
+            ],
+            "time": "2015-05-25 16:11:40"
         },
         {
             "name": "swiftmailer/swiftmailer",

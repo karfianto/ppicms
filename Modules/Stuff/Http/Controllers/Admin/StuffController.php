@@ -27,9 +27,9 @@ class StuffController extends AdminBaseController
      */
     public function index()
     {
-        //$stuffs = $this->stuff->all();
+        $stuffs = $this->stuff->all();
 
-        return view('stuff::admin.stuffs.index', compact(''));
+        return view('stuff::admin.stuffs.index', compact('stuffs'));
     }
 
     /**

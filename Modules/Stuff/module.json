@@ -4,14 +4,12 @@
     "description": "",
     "version": "v0.1",
     "keywords": [],
-    "active": 1,
+    "active": 0,
     "order": 1,
     "providers": [
         "Modules\\Stuff\\Providers\\StuffServiceProvider",
         "Modules\\Stuff\\Providers\\RouteServiceProvider"
     ],
-    "aliases":{},
-    "files": [
-        
-    ]
+    "aliases": [],
+    "files": []
 }
