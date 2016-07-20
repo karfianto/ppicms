@@ -22,7 +22,7 @@
                     <a class="dropdown-toggle" href="#" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Resources <span class="caret"></span></a>
 
                 <ul class="dropdown-menu">
-                    <li><a class="page-scroll" href="/#resources">All</a></li>
+                    <li><a class="page-scroll" href="#resources">All</a></li>
                     <li role="separator" class="divider"></li>
                     <li><a href="/start">Start</a></li>
                     <li><a href="/blog/posts/">Blog</a></li>

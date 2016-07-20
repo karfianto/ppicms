@@ -164,6 +164,9 @@ return [
 		App\Providers\RouteServiceProvider::class,
 		App\Providers\ConfigServiceProvider::class,
 
+		
+		Anhskohbo\NoCaptcha\NoCaptchaServiceProvider::class,
+
 
 		Modules\Core\Providers\AsgardServiceProvider::class,
 	],
