@@ -32,7 +32,7 @@
                         Students Association of Australia (PPIA Pusat) and affiliated with PPIA NSW Branch.
                     </p>
                     <p><a href="#services" class="page-scroll btn btn-default btn-xl sr-button">Our services</a></p>
-                    <p><a href="/blog/posts/starter-pack" class="page-scroll btn btn-success btn-xl sr-button">Get Started!</a></p>
+                    <p><a href="/start" class="page-scroll btn btn-success btn-xl sr-button">Get Started!</a></p>
                 </div>
             </div>
         </div>
@@ -85,7 +85,7 @@
         <div class="container-fluid">
             <div class="row no-gutter">
                 <div class="col-lg-4 col-sm-6">
-                    <a href="/blog/posts/starter-pack" class="portfolio-box">
+                    <a href="/start" class="portfolio-box">
                         <img src="{{ Theme::url('img/portfolio/thumbnails/3.jpg') }}" class="img-responsive" alt="">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
@@ -93,7 +93,7 @@
 
                                 </div>
                                 <div class="project-name">
-                                    Starter Pack
+                                    Start!
                                 </div>
                             </div>
                         </div>

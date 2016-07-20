@@ -18,8 +18,19 @@
                 <li>
                     <a class="page-scroll" href="#services">Services</a>
                 </li>
-                <li>
-                    <a class="page-scroll" href="#resources">Resources</a>
+                <li class="dropdown">
+                    <a class="dropdown-toggle" href="#" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Resources <span class="caret"></span></a>
+
+                <ul class="dropdown-menu">
+                    <li><a class="page-scroll" href="/#resources">All</a></li>
+                    <li role="separator" class="divider"></li>
+                    <li><a href="/start">Start</a></li>
+                    <li><a href="/blog/posts/">Blog</a></li>
+                    <li><a href="/agenda">Agenda</a></li>
+                    <li><a href="/videos">Videos</a></li>
+                    <li><a href="/download">Download</a></li>
+                    <li><a href="/useful-links">Useful Links</a></li>
+                </ul>
                 </li>
                 <li>
                     <a class="page-scroll" href="#contact">Contact</a>
