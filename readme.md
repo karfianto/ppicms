@@ -4,11 +4,11 @@
 # ppicms
 PPI Community Management System
 
-Aplikasi ini akan dikembangkan untuk mengelola keanggotaan dan kegiatan Persatuan Pelajar Indonesia (PPI). Sebagai pilot project, akan diimplementasikan pada PPIA University of Wollongong. Nantinya aplikasi ini akan bersifat terbuka (open source) sehingga dapat diadopsi oleh semua komunitas pelajar.
+Aplikasi ini akan dikembangkan untuk mengelola keanggotaan dan kegiatan Persatuan Pelajar Indonesia (PPI). Sebagai pilot project, akan diimplementasikan pada PPIA University of Wollongong. Aplikasi ini bersifat terbuka (open source) sehingga dapat diadopsi oleh semua komunitas pelajar.
 
-# Demo site
+# Live site
 
-http://ppia.ictlab.org
+http://ppiauow.org
 
 # Features v0.2
 
