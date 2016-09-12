@@ -8,6 +8,11 @@ This application is develeloped to manage membership and events of Indonesian St
 
 The website of PPIA UOW using this application has been launched on July 24, 2016. Some features and fixes will be added continuously to improve the quality of this app. 
 
+# Concept
+
+![alt text][concept]
+[concept]: http://ppiauow.org/assets/media/ppiauowxs.jpg "Concept"
+
 # Live site
 
 http://ppiauow.org
