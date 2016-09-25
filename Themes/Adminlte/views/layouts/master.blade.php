@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <title>
         @section('title')
-        {{ Setting::get('core::site-name') }} PPIA-UOW | Admin
+        Admin | {{ Setting::get('core::site-name') }}
         @show
     </title>
     <meta id="token" name="token" value="{{ csrf_token() }}" />

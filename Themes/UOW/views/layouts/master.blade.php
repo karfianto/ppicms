@@ -6,10 +6,10 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="">
-    <meta name="author" content="">
+    <meta name="description" content="{{ Setting::get('core::site-description') }}">
+    <meta name="author" content="Arief Karfianto">
 
-    <title>PPIA Wollongong</title>
+    <title>{{ Setting::get('core::site-name') }}</title>
 
     <!-- Bootstrap Core CSS -->
 {!! Theme::style('vendor/bootstrap/css/bootstrap.min.css') !!}
