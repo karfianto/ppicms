@@ -66,6 +66,7 @@ php artisan module:migrate Core
 php artisan module:migrate Dashboard
 php artisan module:migrate Menu
 php artisan module:migrate Media
+php artisan module:migrate Page
 php artisan module:migrate Setting
 php artisan module:migrate Translation
 php artisan module:migrate User
@@ -74,6 +75,7 @@ php artisan module:seed Core
 php artisan module:seed Dashboard
 php artisan module:seed Menu
 php artisan module:seed Media
+php artisan module:seed Page
 php artisan module:seed Setting
 php artisan module:seed Translation
 php artisan module:seed User
