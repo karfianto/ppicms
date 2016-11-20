@@ -11,11 +11,11 @@ The website of PPIA UOW using this application has been launched on July 24, 201
 # Concept
 
 ![alt text][concept]
-[concept]: http://ppiauow.org/assets/media/ppiauowxs.jpg "Concept"
+[concept]: http://www.ppi-australia.org/assets/media/ppicms-concept.jpg "Concept"
 
 # Live site
 
-http://ppiauow.org
+http://www.ppi-australia.org
 
 # Features
 
