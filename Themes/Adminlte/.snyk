@@ -1,0 +1,17 @@
+# Snyk (https://snyk.io) policy file, patches or ignores known vulnerabilities.
+version: v1.13.5
+ignore: {}
+# patches apply the minimum changes required to fix a vulnerability
+patch:
+  SNYK-JS-LODASH-450202:
+    - laravel-elixir > browser-sync > easy-extender > lodash:
+        patched: '2019-07-03T22:53:24.804Z'
+    - laravel-elixir > gulp-sass > node-sass > sass-graph > lodash:
+        patched: '2019-07-03T22:53:24.804Z'
+    - laravel-elixir > gulp-sass > node-sass > gaze > globule > lodash:
+        patched: '2019-07-03T22:53:24.804Z'
+  SNYK-JS-HTTPSPROXYAGENT-469131:
+    - snyk > proxy-agent > https-proxy-agent:
+        patched: '2019-10-04T22:53:07.291Z'
+    - snyk > proxy-agent > pac-proxy-agent > https-proxy-agent:
+        patched: '2019-10-04T22:53:07.291Z'
