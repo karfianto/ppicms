@@ -8,10 +8,6 @@ This application is develeloped to manage membership and events of Indonesian St
 
 The website of PPIA UOW using this application has been launched on July 24, 2016. Some features and fixes will be added continuously to improve the quality of this app. 
 
-# Concept
-
-![alt text][concept]
-[concept]: http://www.ppi-australia.org/assets/media/ppicms-concept.jpg "Concept"
 
 # Live site
 
@@ -106,5 +102,5 @@ So you can access your app at http://ppicms.dev/ and the backend at http://ppicm
 
 You can post issues on this repository or email me at <karfi@ictlab.org> for any questions.
 
-![alt text][logo]
-[logo]: http://ppiauow.com/wp-content/uploads/2016/02/logoheader-7.jpg "PPIA UOW"
+![PPI Australia](https://i1.wp.com/www.ppi-australia.org/wp-content/uploads/2017/07/LOGO-PPIA-web.png)
+&copy; 2016-2017
