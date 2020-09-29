@@ -5,7 +5,7 @@
   },
   "dependencies": {
     "laravel-elixir": "^5.0.0",
-    "snyk": "^1.244.0"
+    "snyk": "^1.404.0"
   },
   "scripts": {
     "snyk-protect": "snyk protect",
