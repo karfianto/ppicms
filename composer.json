@@ -12,7 +12,7 @@
   "version": "1.14.0",
   "type": "project",
   "require": {
-    "laravel/framework": "~5.1",
+    "laravel/framework": "5.8.17",
     "pingpong/modules": "dev-feature/5.1",
     "cartalyst/sentinel": "~2.0",
     "asgardcms/core-module": "~1.0",
